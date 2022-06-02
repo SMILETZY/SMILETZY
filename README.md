@@ -1,16 +1,20 @@
-### Hi there 👋
+## Tools Termux ##
 
-<!--
-**SMILETZY/SMILETZY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Menjalankan Tools
 
-Here are some ideas to get you started:
+$ pkg update && pkg upgrade
+$ pkg install python
+$ pkg install git
+$ pip install requests bs4 futures
+$ git clone https://github.com/SMILETZY/SMILETZY
+$ cd SMILETZY
+$ python new-ijo.py
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## MENU ##
+Crack Id Publik
+Crack Id Friends
+Dump Id Publik
+
+
+Terimakasih Telah Memilih Tools Kami ^_^
